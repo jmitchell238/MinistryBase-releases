@@ -8,8 +8,8 @@ intellectual property of James Mitchell and 238 Apps.
 
 USE
 
-The MinistryBase installer is provided free of charge for personal and church
-use, under the End User License Agreement shown during installation and
+The MinistryBase installer is provided free of charge for personal use and for
+pastors and churches of 100 members or fewer, under the End User License Agreement shown during installation and
 available inside the app. This notice does not replace or expand that
 agreement. If the two differ, the agreement shown in the installer controls.
 
