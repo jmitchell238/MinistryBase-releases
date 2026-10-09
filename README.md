@@ -66,7 +66,7 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 4. Choose whether you want a desktop shortcut, then click **Install**. Windows will ask for permission. The installer also sets up the Microsoft Visual C++ runtime the app needs.
 5. Open MinistryBase from the Start menu, or leave **Launch MinistryBase** checked on the last screen.
 
-The app installs to `C:\Program Files\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
+The app installs to `C:\Program Files (x86)\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
 
 ## First-time setup
 
