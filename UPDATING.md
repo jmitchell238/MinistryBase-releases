@@ -24,7 +24,7 @@ If you like extra peace of mind, export a backup first: **Settings, Backup and R
 
 ## If something looks different after updating
 
-MinistryBase may quietly adjust some of your data the first time it opens after an update, for example filling in new fields. This is normal, and you will not be asked to do anything. If something does not look right, email [hello@238apps.com](mailto:hello@238apps.com).
+MinistryBase may quietly adjust some of your data the first time it opens after an update, for example filling in new fields. This is normal, and you will not be asked to do anything. If something does not look right, email [support@238apps.com](mailto:support@238apps.com).
 
 ## Automatic updates
 

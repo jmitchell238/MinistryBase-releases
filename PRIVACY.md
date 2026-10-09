@@ -1,6 +1,6 @@
 # MinistryBase Privacy Policy
 
-Operated by 238 Apps (James Mitchell). Contact: hello@238apps.com
+Operated by 238 Apps (James Mitchell). Contact: privacy@238apps.com
 
 This policy covers the MinistryBase Windows app. In short: **your ministry content stays on your computer, and we do not collect it.**
 
@@ -34,7 +34,7 @@ Because your data lives on your PC, you control how long it is kept. Uninstallin
 
 ## The website and waitlist
 
-The waitlist at ministrybase.app is separate from the app. If you join, we collect your email address only to tell you when MinistryBase launches. We do not sell or share it. To have it removed, email hello@238apps.com.
+The waitlist at ministrybase.app is separate from the app. If you join, we collect your email address only to tell you when MinistryBase launches. We do not sell or share it. To have it removed, email privacy@238apps.com.
 
 ## Children
 
@@ -46,4 +46,4 @@ We may update this policy. The latest version will always be in this repository.
 
 ## Contact
 
-Questions or requests: hello@238apps.com
+Questions or requests: privacy@238apps.com

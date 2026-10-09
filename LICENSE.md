@@ -44,4 +44,4 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 CONTACT
 
-For permissions and licensing questions: hello@238apps.com
+For permissions and licensing questions: james@238apps.com

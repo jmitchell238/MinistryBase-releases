@@ -53,7 +53,7 @@ MinistryBase is proprietary software, provided free for personal and church use.
 
 ## Contact
 
-Questions or feedback: [hello@238apps.com](mailto:hello@238apps.com)
+Questions or feedback: [support@238apps.com](mailto:support@238apps.com)
 
 ---
 
