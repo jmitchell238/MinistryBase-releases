@@ -60,28 +60,45 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 
 ## Installing
 
+**Before you start:** Windows will warn you that the installer is from an unknown publisher. That is expected and safe; see [Windows will warn you first](#windows-will-warn-you-first) below.
+
 1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.21.1.1.exe`.
-2. Double-click the file. **Windows will show a blue "Windows protected your PC" box. This is expected.** Click **More info**, then **Run anyway**. See [Windows will warn you first](#windows-will-warn-you-first) below.
-3. Read the license agreement, scroll to the bottom, and check the box to accept it.
-4. Choose whether you want a desktop shortcut, then click **Install**. Windows will ask for permission. The installer also sets up the Microsoft Visual C++ runtime the app needs.
-5. Open MinistryBase from the Start menu, or leave **Launch MinistryBase** checked on the last screen.
+
+2. Double-click the file. Windows shows a security warning. Click **Run** (or **More info**, then **Run anyway**, as described below).
+
+   ![The "Open File - Security Warning" window with the Run button circled](screenshots/install/1-security-warning.png)
+
+3. **License Agreement:** scroll the agreement all the way to the bottom, tick **I Accept / Agree to the License Agreement**, then click **Next**. Next does nothing until you have scrolled to the end and ticked the box.
+
+   ![The License Agreement page with the I Accept box and the Next button circled](screenshots/install/2-license-accept.png)
+
+4. **Additional Tasks:** tick **Create a desktop shortcut** if you want one (it is off by default), then click **Next**.
+
+   ![The Select Additional Tasks page with the Next button circled](screenshots/install/3-desktop-shortcut.png)
+
+5. **Ready to Install:** click **Install**. Windows may ask for permission to make changes; click **Yes**. The installer also sets up the Microsoft Visual C++ runtime the app needs.
+
+   ![The Ready to Install page with the Install button circled](screenshots/install/4-ready-to-install.png)
+
+6. **Finish:** leave **Launch MinistryBase** ticked and click **Finish**. Later, open MinistryBase from the Start menu (or the desktop shortcut).
+
+   ![The final setup page with Launch MinistryBase and Finish circled](screenshots/install/5-finish.png)
 
 The app installs to `C:\Program Files (x86)\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
 
 ## Windows will warn you first
 
-**Every new user sees this once, and it is safe to continue.** When you open the installer, Windows shows a blue box:
+**Every new user sees a warning once, and it is safe to continue.** The installer isn't signed with a paid certificate yet, so Windows doesn't recognize the publisher. Depending on your Windows settings, you will see one of these:
 
-> **Windows protected your PC**
-> Microsoft Defender SmartScreen prevented an unrecognized app from starting.
+**The "Open File – Security Warning" window** (pictured in step 2 above). It says "The publisher could not be verified" and "Unknown Publisher". Click **Run**.
 
-There is no Run button at first. To continue:
+**Or a blue "Windows protected your PC" box.** It has no Run button at first:
 
 1. Click the small **More info** link under the message.
 2. Check that the app is `MinistryBaseSetup_v….exe` and the publisher says **Unknown publisher**.
 3. Click **Run anyway**.
 
-**Why it happens:** Windows shows this for any download that isn't signed with a paid code-signing certificate. MinistryBase is free, and the installer is not signed yet. The warning means "Windows doesn't know this app yet", not "this app is harmful."
+**Why it happens:** Windows warns about any downloaded program that isn't code-signed. MinistryBase is free, and a signing certificate costs money every year. The warning means "Windows doesn't know this publisher yet," not "this app is harmful."
 
 **Only download the installer from the [Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases).** If you got it anywhere else, don't run it.
 
