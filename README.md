@@ -62,29 +62,23 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 
 **Before you start:** Windows will warn you that the installer is from an unknown publisher. That is expected and safe; see [Windows will warn you first](#windows-will-warn-you-first) below.
 
-1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.22.0.1.exe`.
+1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.22.2.1.exe`.
 
-2. Double-click the file. Windows shows a security warning. Click **Run** (or **More info**, then **Run anyway**, as described below).
+2. Double-click the file. Windows shows a security warning. Click **Run** (or **More info**, then **Run anyway**, as described below). Windows then asks whether to allow the app to make changes; click **Yes**.
 
    ![The "Open File - Security Warning" window with the Run button circled](screenshots/install/1-security-warning.png)
 
-3. **License Agreement:** scroll the agreement all the way to the bottom, tick **I Accept / Agree to the License Agreement**, then click **Next**. Next does nothing until you have scrolled to the end and ticked the box.
+3. **Welcome:** tick **I accept the License Agreement**, then click **Install**. Install stays greyed out until the box is ticked. Click the **License Agreement** link if you want to read the full license first.
 
-   ![The License Agreement page with the I Accept box and the Next button circled](screenshots/install/2-license-accept.png)
+   You can also tick **Create a desktop shortcut**, or click **Change install folder** to put MinistryBase somewhere other than `C:\Program Files\MinistryBase`. When you update later, the installer keeps the folder you already use.
 
-4. **Additional Tasks:** tick **Create a desktop shortcut** if you want one (it is off by default), then click **Next**.
+   ![The Welcome page with the I accept box and the Install button circled](screenshots/install/2-welcome-accept.png)
 
-   ![The Select Additional Tasks page with the Next button circled](screenshots/install/3-desktop-shortcut.png)
+4. **Finish:** wait while it installs (it also sets up the Microsoft Visual C++ runtime the app needs). Then leave **Launch MinistryBase** ticked and click **Finish**. Later, open MinistryBase from the Start menu (or the desktop shortcut).
 
-5. **Ready to Install:** click **Install**. Windows may ask for permission to make changes; click **Yes**. The installer also sets up the Microsoft Visual C++ runtime the app needs.
+   ![The final page with Launch MinistryBase and Finish circled](screenshots/install/3-finish.png)
 
-   ![The Ready to Install page with the Install button circled](screenshots/install/4-ready-to-install.png)
-
-6. **Finish:** leave **Launch MinistryBase** ticked and click **Finish**. Later, open MinistryBase from the Start menu (or the desktop shortcut).
-
-   ![The final setup page with Launch MinistryBase and Finish circled](screenshots/install/5-finish.png)
-
-The app installs to `C:\Program Files\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
+By default the app installs to `C:\Program Files\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
 
 ## Windows will warn you first
 
