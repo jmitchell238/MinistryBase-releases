@@ -60,7 +60,7 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 
 ## Installing
 
-1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.21.0.1.exe`.
+1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.21.1.1.exe`.
 2. Double-click the file. **Windows will show a blue "Windows protected your PC" box. This is expected.** Click **More info**, then **Run anyway**. See [Windows will warn you first](#windows-will-warn-you-first) below.
 3. Read the license agreement, scroll to the bottom, and check the box to accept it.
 4. Choose whether you want a desktop shortcut, then click **Install**. Windows will ask for permission. The installer also sets up the Microsoft Visual C++ runtime the app needs.
