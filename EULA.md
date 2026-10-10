@@ -27,11 +27,11 @@ following:
   a) your personal, non-commercial use; or
 
   b) your ministry work as a pastor, teacher, or staff member of a church,
-     or the church's own use, where that church has 100 members or fewer.
+     or the church's own use, where that church has 100 or fewer people in
+     regular attendance.
 
-Use by or for a church with more than 100 members is not covered by this
-free license and requires a separate written license from Licensor. To ask
-about one, contact Licensor at the address in Section 11.
+Use by or for a church with more than 100 people in regular attendance is
+not covered by this license.
 
 ===============================================================================
 2. INTELLECTUAL PROPERTY

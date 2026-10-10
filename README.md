@@ -61,12 +61,31 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 ## Installing
 
 1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.21.0.1.exe`.
-2. Double-click the file. If Windows shows **"Windows protected your PC,"** click **More info**, then **Run anyway**. The installer is not code-signed yet, so this warning is expected.
+2. Double-click the file. **Windows will show a blue "Windows protected your PC" box. This is expected.** Click **More info**, then **Run anyway**. See [Windows will warn you first](#windows-will-warn-you-first) below.
 3. Read the license agreement, scroll to the bottom, and check the box to accept it.
 4. Choose whether you want a desktop shortcut, then click **Install**. Windows will ask for permission. The installer also sets up the Microsoft Visual C++ runtime the app needs.
 5. Open MinistryBase from the Start menu, or leave **Launch MinistryBase** checked on the last screen.
 
 The app installs to `C:\Program Files (x86)\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
+
+## Windows will warn you first
+
+**Every new user sees this once, and it is safe to continue.** When you open the installer, Windows shows a blue box:
+
+> **Windows protected your PC**
+> Microsoft Defender SmartScreen prevented an unrecognized app from starting.
+
+There is no Run button at first. To continue:
+
+1. Click the small **More info** link under the message.
+2. Check that the app is `MinistryBaseSetup_v….exe` and the publisher says **Unknown publisher**.
+3. Click **Run anyway**.
+
+**Why it happens:** Windows shows this for any download that isn't signed with a paid code-signing certificate. MinistryBase is free, and the installer is not signed yet. The warning means "Windows doesn't know this app yet", not "this app is harmful."
+
+**Only download the installer from the [Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases).** If you got it anywhere else, don't run it.
+
+Your browser may also say the file "isn't commonly downloaded". In Edge, open the downloads list, click **…** next to the file, choose **Keep**, then **Show more** and **Keep anyway**.
 
 ## First-time setup
 
@@ -101,7 +120,7 @@ Your sermons, calendar, and members stay on your computer. MinistryBase contains
 
 ## License and cost
 
-MinistryBase is free for personal use and for pastors and churches of 100 members or fewer. It is proprietary software. Churches with more than 100 members need a separate license: write to [james@238apps.com](mailto:james@238apps.com). See [LICENSE.md](LICENSE.md) and the full [license agreement](EULA.md) shown during installation.
+MinistryBase is free for personal use and for pastors and churches with 100 or fewer people in regular attendance. It is proprietary software. See [LICENSE.md](LICENSE.md) and the full [license agreement](EULA.md) shown during installation.
 
 ## Contact
 
