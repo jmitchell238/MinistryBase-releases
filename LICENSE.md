@@ -11,8 +11,10 @@ USE
 The MinistryBase installer is provided free of charge for personal use and for
 pastors and churches with 100 or fewer people in regular attendance, under the
 End User License Agreement shown during installation (a copy is in EULA.md).
-Use by or for a church with more than 100 people in regular attendance is not
-covered. This notice does not replace or expand that agreement. If
+Use by or for a church with more than 100 people in regular attendance requires
+a paid license: a one-time fee of US $101 per church. Contact james@238apps.com
+to get it. Using MinistryBase for a church of that size without that license
+violates these terms. This notice does not replace or expand that agreement. If
 the two differ, the agreement shown in the installer controls.
 
 RESTRICTIONS

@@ -120,7 +120,7 @@ Your sermons, calendar, and members stay on your computer. MinistryBase contains
 
 ## License and cost
 
-MinistryBase is free for personal use and for pastors and churches with 100 or fewer people in regular attendance. It is proprietary software. See [LICENSE.md](LICENSE.md) and the full [license agreement](EULA.md) shown during installation.
+MinistryBase is free for personal use and for pastors and churches with 100 or fewer people in regular attendance. A church with more than 100 people in regular attendance needs a one-time US $101 license; email [james@238apps.com](mailto:james@238apps.com) to get it. MinistryBase is proprietary software. See the [Terms of Use](https://ministrybase.app/terms.html), [LICENSE.md](LICENSE.md) and the full [license agreement](EULA.md) shown during installation.
 
 ## Contact
 
