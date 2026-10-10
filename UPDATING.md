@@ -4,12 +4,14 @@
 
 ## How to update
 
-1. **Download the new installer** from the [Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases). The file is named something like `MinistryBaseSetup_v1.0.1.exe`.
-2. **Run the installer.** Double-click it and click through the prompts, just like the first time. You do not need to uninstall the old version first. The installer upgrades it in place.
-3. **Open MinistryBase.** A "What's New" window may appear to show what changed.
-4. **Check the version.** Open **Settings** (the gear icon at the bottom of the sidebar), then **About**, to see the version number.
+1. **Close MinistryBase** if it is open.
+2. **Download the new installer** from the [Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases). The file is named like `MinistryBaseSetup_v1.22.2.1.exe`.
+3. **Run the installer.** Double-click it. Windows shows the same security warning as the first time: click **Run** (or **More info**, then **Run anyway**), then **Yes**. See [Windows will warn you first](README.md#windows-will-warn-you-first).
+4. **Update MinistryBase:** the first screen says **Update MinistryBase**. Tick **I accept the License Agreement** and click **Install**. You do not need to uninstall the old version first; the installer updates it in place, in the same folder.
+5. **Finish:** leave **Launch MinistryBase** ticked and click **Finish**. A "What's New" window may appear to show what changed.
+6. **Check the version** if you like: open **Settings** (the gear icon at the bottom of the sidebar), then **About**.
 
-If Windows shows "Windows protected your PC," click **More info**, then **Run anyway**. The installer is not yet code-signed.
+**Updating from 1.21.1 or earlier:** those versions installed to `C:\Program Files (x86)\MinistryBase`. The new installer moves MinistryBase to `C:\Program Files\MinistryBase` and removes the old copy for you. If it says MinistryBase or `ministrybase_mcp.exe` is still running, close it (and any Claude app using MinistryBase) and click **Retry**.
 
 ## Your data is safe
 
