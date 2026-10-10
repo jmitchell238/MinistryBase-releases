@@ -31,7 +31,12 @@ following:
      regular attendance.
 
 Use by or for a church with more than 100 people in regular attendance is
-not covered by this license.
+not covered by this free license. At such a church, each individual who
+uses the Software must first obtain a paid license from Licensor: a one-time
+fee of US $101 per user (for example, two pastors who both use the Software
+need two licenses, US $202 in all). To obtain licenses, contact Licensor at
+the address in Section 11. Use of the Software at such a church by any user
+without their own paid license violates this Agreement.
 
 ===============================================================================
 2. INTELLECTUAL PROPERTY

@@ -62,7 +62,7 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 
 **Before you start:** Windows will warn you that the installer is from an unknown publisher. That is expected and safe; see [Windows will warn you first](#windows-will-warn-you-first) below.
 
-1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.21.1.1.exe`.
+1. Go to the **[Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases)** and download the newest installer, named like `MinistryBaseSetup_v1.22.0.1.exe`.
 
 2. Double-click the file. Windows shows a security warning. Click **Run** (or **More info**, then **Run anyway**, as described below).
 
@@ -84,7 +84,7 @@ Sermon Studio (writing in the app), bulletins, prayer requests, and teaching sch
 
    ![The final setup page with Launch MinistryBase and Finish circled](screenshots/install/5-finish.png)
 
-The app installs to `C:\Program Files (x86)\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
+The app installs to `C:\Program Files\MinistryBase`. Your data is kept separately, in `%LOCALAPPDATA%\MinistryBase`.
 
 ## Windows will warn you first
 
@@ -118,6 +118,8 @@ You can change all of this later in **Settings**.
 ## Updating
 
 Download the newest installer and run it over the old version. You do not need to uninstall first, and your data is kept. See [UPDATING.md](UPDATING.md).
+
+**Updating from 1.21.1 or earlier:** those versions installed to `C:\Program Files (x86)\MinistryBase`. Version 1.22.0 and later install to `C:\Program Files\MinistryBase`, and the installer removes the old copy for you. Your data is not touched. Close MinistryBase first; if the installer says MinistryBase or `ministrybase_mcp.exe` is still running, close it (and any Claude app using MinistryBase) and click **Retry**.
 
 MinistryBase does not check for updates on its own. New versions are posted on the [Releases page](https://github.com/jmitchell238/MinistryBase-releases/releases).
 
